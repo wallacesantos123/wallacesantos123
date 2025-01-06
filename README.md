@@ -5,7 +5,7 @@
 
 - 🌱 Atualmente estou aprendendo ****React**,**Node.js**,**Android**,**SDK**,**Cordova**.**
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em [https: //github.com/wallacesantos123](https://github.com/wallacesantos123)
+- 👨‍💻 Todos os meus projetos estão disponíveis em https://github.com/wallacesantos123?tab=repositories
 
 - 💬 Pergunte-me sobre ****ReactNative**,**HTML**,**CSS**,**SQL**,**PHP**,**Javascript**.**
 
