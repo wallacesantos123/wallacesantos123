@@ -12,8 +12,7 @@
 - 📫 Como entrar em contato comigo **dalas1998.ws@gmail.com**
 
 - 📄 Saiba mais sobre minhas experiências https://www.linkedin.com/in/wallace-santos-50048b234/
-- 
-<p align="left">
+  
 </p>
 
 <h3 align="left">Idiomas e ferramentas :</h3>
