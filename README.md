@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, sou Wallace Santos</h1>
 <h3 align="center">Sou desenvolvedor web apaixado por criar soluções criativas e educacionais.</h3>
 
-- 🔭 Atualmente estou trabalhando no [Lava-Facil](https://github.com/wallacesantos123/lavafacilappcordova)
+- 🔭 Atualmente estou trabalhando no [Lava-Facil](https://github.com/wallacesantos123/lavafacilappcordova) - Projeto com objetivo de aumentar a demanda de clientes em lava-rapidos.
 
 - 🌱 Atualmente estou aprendendo ****React**,**Node.js**,**Android**,**SDK**,**Cordova**.**
 
@@ -11,7 +11,7 @@
 
 - 📫 Como entrar em contato comigo **dalas1998.ws@gmail.com**
 
-- 📄 Saiba mais sobre minhas experiências [https://www.linkedin.com/in/wallace-santos-50048b234/]
+- 📄 Saiba mais sobre minhas experiências https://www.linkedin.com/in/wallace-santos-50048b234/
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
